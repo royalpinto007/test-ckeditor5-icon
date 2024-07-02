@@ -1,0 +1,1 @@
+# test-ckeditor5-icon
